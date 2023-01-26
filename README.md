@@ -1,4 +1,4 @@
-# BLENDER-OBJECT-DISPLAY-USING-AR
+# BLENDER-OBJECT-DISPLAY-USING-OPENGL
 This project uses an object made in blender to display on aruco marker.
 
 # NEED FOR BLENDER
